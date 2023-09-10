@@ -57,19 +57,12 @@
 </p>
 <br>
 <br>
-My Projects
+<h3 align="left">My Projects :</h3>
 
-1. [Portfolio App (Ongoing)](https://github.com/narendrawadhwa/Portfolio-App)
-<br><br> [![Project 1 Image](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png)](https://github.com/narendrawadhwa/Portfolio-App)
-
-2. [Project 2](https://github.com/narendrawadhwa/project2-repo)
-   - [![Project 2 Image](https://github.com/narendrawadhwa/project2-repo/raw/main/project2-image.png)](https://github.com/narendrawadhwa/project2-repo)
-
-3. [Project 3](https://github.com/narendrawadhwa/project3-repo)
-   - [![Project 3 Image](https://github.com/narendrawadhwa/project3-repo/raw/main/project3-image.png)](https://github.com/narendrawadhwa/project3-repo)
-
-4. [Project 4](https://github.com/narendrawadhwa/project4-repo)
-   - [![Project 4 Image](https://github.com/narendrawadhwa/project4-repo/raw/main/project4-image.png)](https://github.com/narendrawadhwa/project4-repo)
+<a href="https://github.com/narendrawadhwa/Portfolio-App" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png" alt="Project 1 Image" width="500" height="320"></a> 
+<a href="https://github.com/narendrawadhwa/backend-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/bookmymovie.png" alt="Project 2 Image" width="500" height="320"></a>
+<a href="https://github.com/narendrawadhwa/eshop-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/eshop.png" alt="Project 3 Image" width="500" height="320"></a> 
+<a href="https://github.com/narendrawadhwa/blogpost_project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/blogpost.png" alt="Project 4 Image" width="500" height="320"></a>
   
    <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrawadhwa&show_icons=true&layout=compact&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="narendrawadhwa" /></p>

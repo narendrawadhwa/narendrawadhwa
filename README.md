@@ -59,10 +59,10 @@
 <br>
 <h3 align="left">My Projects :</h3>
 
-<a href="https://github.com/narendrawadhwa/Portfolio-App" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png" alt="Project 1 Image" width="400" height="320"></a> 
-<a href="https://github.com/narendrawadhwa/backend-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/bookmymovie.png" alt="Project 2 Image" width="400" height="320"></a>
-<a href="https://github.com/narendrawadhwa/eshop-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/eshop.png" alt="Project 3 Image" width="400" height="320"></a> 
-<a href="https://github.com/narendrawadhwa/blogpost_project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/blogpost.png" alt="Project 4 Image" width="400" height="320"></a>
+<a href="https://github.com/narendrawadhwa/Portfolio-App" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png" alt="Project 1 Image" width="400" height="230"></a> 
+<a href="https://github.com/narendrawadhwa/backend-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/bookmymovie.png" alt="Project 2 Image" width="400" height="230"></a>
+<a href="https://github.com/narendrawadhwa/eshop-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/eshop.png" alt="Project 3 Image" width="400" height="230"></a> 
+<a href="https://github.com/narendrawadhwa/blogpost_project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/blogpost.png" alt="Project 4 Image" width="400" height="230"></a>
   
    <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrawadhwa&show_icons=true&layout=compact&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="narendrawadhwa" /></p>

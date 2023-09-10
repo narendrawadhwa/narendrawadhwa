@@ -56,10 +56,11 @@
   </a> 
 </p>
 <br>
-### My Projects
+<br>
+My Projects
 
-1. [Project 1](https://github.com/narendrawadhwa/project1-repo)
-<br> [![Project 1 Image](https://github.com/narendrawadhwa/project1-repo/raw/main/project1-image.png)](https://github.com/narendrawadhwa/project1-repo)
+1. [Portfolio App (Ongoing)](https://github.com/narendrawadhwa/Portfolio-App)
+<br><br> [![Project 1 Image](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png)](https://github.com/narendrawadhwa/Portfolio-App)
 
 2. [Project 2](https://github.com/narendrawadhwa/project2-repo)
    - [![Project 2 Image](https://github.com/narendrawadhwa/project2-repo/raw/main/project2-image.png)](https://github.com/narendrawadhwa/project2-repo)

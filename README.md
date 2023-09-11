@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio App**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Android App Development & TypeScript**
 
 - 📫 How to reach me **narendrawadhwa06@gmail.com**
 

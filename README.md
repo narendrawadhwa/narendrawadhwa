@@ -11,14 +11,17 @@
 - 🌱 I’m currently learning **Docker training & TypeScript Essential Training**
 
 - 📫 How to reach me **narendrawadhwa06@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/narendraw06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narendraw06" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/narendra0606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra0606" height="30" width="40" /></a>
   <a href="https://instagram.com/nar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nar" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/narendrawadhwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="narendrawadhwa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/narencreation101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narencreation101" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<narendrawadhwa>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<narendrawadhwa>" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 

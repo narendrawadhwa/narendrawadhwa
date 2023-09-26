@@ -1,14 +1,16 @@
 ![logo](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Innovating%20through.gif)
 
 <h1 align="center">Hi!, I'm Narendra Wadhwa</h1>
-<h4 align="center" >An enthusiastic individual embarking on a journey into the dynamic world of Full Stack Development .</h4>
+<h4 align="center" >An enthusiastic individual embarking on a journey into the dynamic world of Full Stack Development and interning at CodSoft as Web Development Intern .</h4>
 <hr>
 
 <img align="right" alt="Coding" width="420" src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/output-onlinegiftools.gif">
 
 - 🔭 I’m currently working on **Job Portal**
 
-- 🌱 I’m currently learning **Docker training & TypeScript Essential Training**
+- 👨‍💻 Currently employed at **CodSoft**
+
+- 🌱 I’m currently learning **Docker Training**
 
 - 📫 How to reach me **narendrawadhwa06@gmail.com**
 <br>

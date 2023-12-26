@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="420" src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/output-onlinegiftools.gif">
 
-- 🔭 I’m currently working on **Portfolio App using three.js**
+//- 🔭 I’m currently working on **Portfolio App using three.js**//
 
 - 👨‍💻 Currently looking for **Opportunities**
 
@@ -66,8 +66,8 @@
 <br>
 <br>
 <h3 align="left">My Projects :</h3>
-<a href="https://github.com/narendrawadhwa/CodSoft/tree/main/job-board" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/portfolio-app.png" alt="Project 1 Image" width="400" height="230"></a> 
-<a href="https://github.com/narendrawadhwa/Portfolio-App" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Screenshot%20(2037).png" alt="Project 1 Image" width="400" height="230"></a> 
+<a href="https://github.com/narendrawadhwa/3D_Portfolio_App" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Portfolio_App.png" alt="Project 1 Image" width="400" height="230"></a> 
+<a href="https://github.com/narendrawadhwa/CodSoft/tree/main/job-board" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Screenshot%20(2037).png" alt="Project 1 Image" width="400" height="230"></a> 
 <a href="http://tribute-to-shree-krishna.wuaze.com/?i=1" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Screenshot%20(2027).png" alt="Project 2 Image" width="400" height="230"></a>
 <a href="https://github.com/narendrawadhwa/backend-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/bookmymovie.png" alt="Project 3 Image" width="400" height="230"></a>
 <a href="https://github.com/narendrawadhwa/eshop-project" target="_blank"><img src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/eshop.png" alt="Project 4 Image" width="400" height="230"></a> 

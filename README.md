@@ -6,7 +6,6 @@
 
 <img align="right" alt="Coding" width="420" src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/output-onlinegiftools.gif">
 
-//- 🔭 I’m currently working on **Portfolio App using three.js**//
 
 - 👨‍💻 Currently looking for **Opportunities**
 

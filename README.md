@@ -1,4 +1,4 @@
-![logo](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Innovating%20through.gif)
+![logo](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Banner.gif)
 
 <h1 align="center">Hi!, I'm Narendra Wadhwa</h1>
 <h4 align="center" >An enthusiastic individual embarking on a journey into the dynamic world of Full Stack Development.</h4>

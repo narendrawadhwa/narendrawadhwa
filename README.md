@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently looking for **Opportunities**
 
-- 🌱 I’m currently learning **Docker Training**
+- 🌱 I’m currently learning **AWS Training**
 
 - 📫 How to reach me **narendrawadhwa06@gmail.com**
 <br>

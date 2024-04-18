@@ -1,7 +1,7 @@
 ![logo](https://github.com/narendrawadhwa/narendrawadhwa/blob/main/Banner.gif)
 
 <h1 align="center">Hi!, I'm Narendra Wadhwa</h1>
-<h4 align="center" >An enthusiastic individual embarking on a journey into the dynamic world of Full Stack Development.</h4>
+<h4 align="center" >New to Tech, Fueled by Determination, Growing and Changing Every Step of the Way</h4>
 <hr>
 
 <img align="right" alt="Coding" width="420" src="https://github.com/narendrawadhwa/narendrawadhwa/blob/main/output-onlinegiftools.gif">
